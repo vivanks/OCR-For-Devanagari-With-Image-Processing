@@ -88,16 +88,16 @@ After training 3 different models we got following accuracy for corresponding mo
 
 -For training
 ```sh
-Accuracy for  model1 is [0.8238582389433975]
-Accuracy for  model2 is [0.996967482645232]
-Accuracy for  model3 is [0.9710084033613445]
+Accuracy for  model1 is 82.39 %
+Accuracy for  model2 is 99.7 %
+Accuracy for  model3 is 97.1 %
 ```
 
 -For testing
 ```sh
-Accuracy for  model1 is [0.670076726342711]
-Accuracy for  model2 is [0.9028559249786872]
-Accuracy for  model3 is [0.9134697357203752]
+Accuracy for  model1 is 67.01 %
+Accuracy for  model2 is 90.29 %
+Accuracy for  model3 is 91.35 %
 ```
 
 
