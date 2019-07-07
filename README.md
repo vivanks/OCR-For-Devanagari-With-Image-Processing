@@ -13,13 +13,11 @@ This is a image classifier and template matching based OCR made for image proces
 # Model Description
 
 ;)
-> Our model using three models ##first model has two layers only 
+Our model using three models ##first model has two layers only 
 Second model has two layers with middle layer having 128 nodes
 And third model has three layers with second layer having 256 nodes, Third layer with 128 nodes
 Final layer in each model has 46 nodes as there are 36 alphabet and 10 digits in our data
 We are doing this to find whether accuracy increases or decreases with addition of layers
-
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 
 ### Installation
